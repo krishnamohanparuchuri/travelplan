@@ -1,0 +1,26 @@
+{
+  "name": "travelplan",
+  "version": "1.0.0",
+  "description": "travelplan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnamohanparuchuri/travelplan.git"
+  },
+  "keywords": [
+    "travelplan",
+    "geolocation"
+  ],
+  "author": "krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnamohanparuchuri/travelplan/issues"
+  },
+  "homepage": "https://github.com/krishnamohanparuchuri/travelplan#readme",
+  "dependencies": {
+    "https-localhost": "^4.5.2"
+  }
+}
